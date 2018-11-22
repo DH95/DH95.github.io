@@ -8,9 +8,6 @@
 {% if site.use_motion %}
   {% assign html_class = html_class | append: ' use-motion' %}
 {% endif %}
-{% if page.use_math %}
-  {% include mathjax_support %}
-{% endif %}
 
 <html class="{{ html_class | downcase }}" lang="{{ site.language }}">
 <head>
