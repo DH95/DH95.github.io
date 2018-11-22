@@ -103,23 +103,23 @@ $$
 
 
 
-![Speaker classification](C:\Users\hdh8277\AppData\Roaming\Typora\typora-user-images\1539223980806.png) ![1539224110644](C:\Users\hdh8277\AppData\Roaming\Typora\typora-user-images\1539224110644.png)
+![Speaker classification](/assets/post_image/1539223980806.png) ![1539224110644](/assets/post_image/1539224110644.png)
 
 
 
 #### Vision
 
-![1539224190859](C:\Users\hdh8277\AppData\Roaming\Typora\typora-user-images\1539224190859.png){: width="300" height="300"}
+![1539224190859](/assets/post_image/1539224190859.png){: width="300" height="300"}
 
 #### Natural Language
 
 
 
-![1539224337211](assets/post_image/1539224337211.png)
+![1539224337211](/assets/post_image/1539224337211.png)
 
 #### Reinforcement Learning
 
-![1539224529659](C:\Users\hdh8277\AppData\Roaming\Typora\typora-user-images\1539224529659.png)
+![1539224529659](/assets/post_image/1539224529659.png)
 
 아직 코드는 공개되지 않았지만, vision 쪽의 코드는 다른 사람이 구현해놓은게 존재한다. 이해하는데 도움이 될 것이다. 
 
