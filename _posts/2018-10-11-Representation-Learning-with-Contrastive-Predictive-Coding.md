@@ -90,9 +90,7 @@ $$
 \begin{align} p(d=i|X,c_t) & = \frac{p(x_i|c_t)\prod\limits_{l\neq i}p(x_l)}{\sum\limits_{j=1}^N p(x_j|c_t)\prod\limits_{l\neq j}p(x_l)} 
 \\\\ & = \frac{\frac{p(x_i|c_t)}{p(x_i)}}{\sum\limits_{j=1}^N\frac{p(x_j|c_t)}{p(x_j)}}\end{align}
 $$
-
 즉, $f(x_{t+k}, c_t)$ 의 optimal value는 위에서 말했던 것처럼 $\frac{p(x_{t+k}|c_k)}{p(x_{t+k})}$ 에 비례하게 되고, 이는 negative sample을 어떻게 뽑아도 보존된다. 또한, Appendix 에서는 mutual information 의 lower bound에 대한 증명을 제공했다.
-
 $$
 I(x_{t+k}, c_t)\geq \log(N)-\mathcal{L}_{N}
 $$
