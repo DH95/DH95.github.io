@@ -115,7 +115,7 @@ $$
 
 
 
-![1539224337211](C:\Users\hdh8277\AppData\Roaming\Typora\typora-user-images\1539224337211.png)
+![1539224337211](assets/post_image/1539224337211.png)
 
 #### Reinforcement Learning
 
