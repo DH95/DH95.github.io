@@ -124,7 +124,5 @@ $$
 
 아직 코드는 공개되지 않았지만, vision 쪽의 코드는 다른 사람이 구현해놓은게 존재한다. 이해하는데 도움이 될 것이다. 
 
-https://github.com/davidtellez/contrastive-predictive-coding
-
-
+> [https://github.com/davidtellez/contrastive-predictive-coding](https://github.com/davidtellez/contrastive-predictive-coding)
 
