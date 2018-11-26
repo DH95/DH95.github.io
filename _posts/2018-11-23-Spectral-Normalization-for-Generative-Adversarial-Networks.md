@@ -41,9 +41,7 @@ K-Lipschitz continuity란
 $$
 ||f||_{Lip} \le K
 $$
-를 만족하는 함수를 말하는데,  Lipschitz norm 은
-
-$$||f(x) - f(x^{'})||/ ||x-x^{'}|| \le M$$ 을 만족하는 가장 작은 M을 말한다.
+를 만족하는 함수를 말하는데,  Lipschitz norm 은 $$||f(x) - f(x^{'})||/ ||x-x^{'}|| \le M$$ 을 만족하는 가장 작은 M을 말한다.
 
 즉, Lipschitz constant 를 제약하는 것은 곧 함수의 기울기에 대한 제약을 뜻한다고도 볼 수 있다.
 
